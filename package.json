@@ -1,5 +1,5 @@
 {
-  "name": "cookiebar",
+  "name": "angular-pagination",
   "version": "0.0.0",
   "description": "Angular Pagination and filtering",
   "main": "index.js",

@@ -1,2 +1,2 @@
-# cookiebar
-Angular based cookie bar
+# angular-pagination
+Angular based pagination and filtering
