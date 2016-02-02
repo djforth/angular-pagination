@@ -1,6 +1,6 @@
 require 'angular'
 require 'angular-mocks'
-require('../lib/pagination.coffee')
+require('../src/pagination.coffee')
 _ = require 'lodash'
 
 describe 'Pagination Ctrl', ->

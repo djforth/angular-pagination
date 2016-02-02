@@ -3,7 +3,7 @@ require 'angular-mocks'
 
 _ = require 'lodash'
 
-require('../lib/pagination.coffee')
+require('../src/pagination.coffee')
 
 
 
